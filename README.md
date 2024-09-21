@@ -38,7 +38,7 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 
 ## 📫 Let's Connect!
 
-- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/tanishq-mahajan-46198a208)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanishq-mahajan-46198a208/)
 - [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tanishqmahajan28)
 - [![Hackerrank](https://img.shields.io/badge/-Hackerrank-181717?style=for-the-badge&logo=hackerrank&logoColor=00EA64)](https://www.hackerrank.com/profile/trmahajan28)
 - [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:trmahajan28@gmail.com)
