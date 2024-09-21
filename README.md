@@ -30,6 +30,7 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 
 **2. Power BI Projects**
 - **[Super Store Sales Analysis](https://github.com/tanishqmahajan28/Superstore-sales-Analysis)**: Designed comprehensive Power BI visualizations to track sales, profit, and product metrics across different regions using Superstore Sales data.
+- **[Spotify Analysis](https://github.com/tanishqmahajan28/Spotify-Analysis)**: Designed a data-driven dashboard offering insights into track popularity and artist trends on Spotify.
   
 **3. Tableau Projects**
 - **[HR Analytics](https://github.com/tanishqmahajan28/HR-Analytics)**: Created an interactive Tableau dashboard for analyzing employee attrition, satisfaction, and demographics across departments.
