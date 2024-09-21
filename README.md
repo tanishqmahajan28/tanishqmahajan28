@@ -24,9 +24,9 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 
 **1. Machine Learning Projects**
 - **[Brain Stroke Prediction](https://github.com/tanishqmahajan28/Brain-Stroke-Prediction)**: Created a predictive machine learning model for brain stroke risk assessment, achieving 95% accuracy to support early intervention and prevention.
-- **[California House Price Prediction](https://github.com/tanishqmahajan28/California-House-Price-Prediction)**:Developed a machine learning model to predict California house prices using multiple regression techniques for accurate price forecasting.
-- **[Gender Classification](https://github.com/tanishqmahajan28/Gender-Classification)**:Applied machine learning algorithms to accurately identify gender from facial metrics and personal attributes.
-- **[Car Price Prediction](https://github.com/tanishqmahajan28/Car-Price-Prediction)**:Built a machine learning model to predict used car prices by leveraging regression techniques and data analysis, delivering accurate and actionable price insights.
+- **[California House Price Prediction](https://github.com/tanishqmahajan28/California-House-Price-Prediction)**: Developed a machine learning model to predict California house prices using multiple regression techniques for accurate price forecasting.
+- **[Gender Classification](https://github.com/tanishqmahajan28/Gender-Classification)**: Applied machine learning algorithms to accurately identify gender from facial metrics and personal attributes.
+- **[Car Price Prediction](https://github.com/tanishqmahajan28/Car-Price-Prediction)**: Built a machine learning model to predict used car prices by leveraging regression techniques and data analysis, delivering accurate and actionable price insights.
 
 **2. Power BI Projects**
 - **[Super Store Sales Analysis](https://github.com/tanishqmahajan28/Superstore-sales-Analysis)**: Designed comprehensive Power BI visualizations to track sales, profit, and product metrics across different regions using Superstore Sales data.
