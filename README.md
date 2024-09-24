@@ -28,11 +28,14 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 - **[Gender Classification](https://github.com/tanishqmahajan28/Gender-Classification)**: Applied machine learning algorithms to accurately identify gender from facial metrics and personal attributes.
 - **[Car Price Prediction](https://github.com/tanishqmahajan28/Car-Price-Prediction)**: Built a machine learning model to predict used car prices by leveraging regression techniques and data analysis, delivering accurate and actionable price insights.
 
-**2. Power BI Projects**
+**2. Deep Learning Projects**
+- **[Game Sentimental Analysis](https://github.com/tanishqmahajan28/Game-Sentiment-Analysis)**: Sentiment analysis on Twitter comments related to various games using NLP and deep learning models like RNN and LSTM for sentiment classification.
+
+**3. Power BI Projects**
 - **[Super Store Sales Analysis](https://github.com/tanishqmahajan28/Superstore-sales-Analysis)**: Designed comprehensive Power BI visualizations to track sales, profit, and product metrics across different regions using Superstore Sales data.
 - **[Spotify Analysis](https://github.com/tanishqmahajan28/Spotify-Analysis)**: Designed a data-driven dashboard offering insights into track popularity and artist trends on Spotify.
   
-**3. Tableau Projects**
+**4. Tableau Projects**
 - **[HR Analytics](https://github.com/tanishqmahajan28/HR-Analytics)**: Created an interactive Tableau dashboard for analyzing employee attrition, satisfaction, and demographics across departments.
 - **[Data Science Salary Analysis](https://github.com/tanishqmahajan28/Data-Science-Salary-Analysis)**: Designed an interactive salary analytics dashboard for data science roles, highlighting global trends in pay by experience and employment type.
 - **[Covid 19 Analysis](https://github.com/tanishqmahajan28/Covid-19-in-India-Analysis)**: Generated a data visualization dashboard to assess COVID-19 spread and healthcare responses in India.
