@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 - 💼 Aspiring Data Scientist
 - 🎓 Post Graduate Program in Data Science and Machine Learning.
 - 🌱 Actively exploring advanced data visualization techniques and machine learning algorithms
-- 🎓 Bachelor's in Mechanical, Terna Engineering College, Nerul, India
+- 🎓 Bachelor's in Mechanical, Terna Engineering College, Nerul, India.
 
 ## Skills
 
