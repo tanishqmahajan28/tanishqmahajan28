@@ -29,7 +29,7 @@ Welcome to my GitHub profile! I'm a passionate data science professional with a 
 
 **2. Deep Learning Projects**
 - **[Game Sentimental Analysis](https://github.com/tanishqmahajan28/Game-Sentiment-Analysis)**: Sentiment analysis on Twitter comments related to various games using NLP and deep learning models like RNN and LSTM for sentiment classification.
-- **[Customer Credit Score Predictor](https://github.com/tanishqmahajan28/Customer-Credit-Score-Predictor)**: Predict customer credit scores using an ANN model based on financial and personal data.
+- **[Customer Credit Score Predictor](https://github.com/tanishqmahajan28/Customer-Credit-Score-Predictor)**: Predict customer credit scores (Good, Poor, Standard) using an ANN model based on financial and personal data.
 
 **3. Power BI Projects**
 - **[Super Store Sales Analysis](https://github.com/tanishqmahajan28/Superstore-sales-Analysis)**: Designed comprehensive Power BI visualizations to track sales, profit, and product metrics across different regions using Superstore Sales data.
