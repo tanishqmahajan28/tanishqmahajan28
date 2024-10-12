@@ -1,6 +1,6 @@
 # Hi there, I'm Tanishq Mahajan! 👋
 
-Welcome to my GitHub profile! I'm a passionate data science professional with a solid background in Python, machine learning, SQL, Power BI and Excel. I'm eager to leverage my skills to analyze intricate datasets and provide valuable insights that drive critical decisions for organizations.
+Welcome to my GitHub profile! I'm a passionate data science professional with a solid background in Python, Machine Learning, SQL, Power BI and Excel. I'm eager to leverage my skills to analyze intricate datasets and provide valuable insights that drive critical decisions for organizations.
 
 ## About Me
 
